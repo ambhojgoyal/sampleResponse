@@ -1,8 +1,8 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "hello"
+      "platform": 1,
+      "web": 3
     }
   ],
   "profile": {
